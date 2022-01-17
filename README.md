@@ -6,4 +6,4 @@ Senior at Edgemont Jr./Sr. High School in Scarsdale, NY
 
 🔥 My interests are computer networking, cybersecurity, algorithms, and desktop app development
 
-Captain of @edgemontrobotics, co-founder of @Pondr-Tech, founder and educator at @ehsprogramming
+Captain of [@edgemontrobotics](https://github.com/edgemontrobotics), co-founder of [@Pondr-Tech](https://github.com/Pondr-Tech), founder and educator at [@ehsprogramming](https://github.com/ehsprogramming)
