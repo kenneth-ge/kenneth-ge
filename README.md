@@ -1,6 +1,6 @@
 ### Hey! I'm Kenneth Ge 👋
 
-🔭 I’m currently working on developing an interactive online directory system for the Town of Greenburgh and creating resources for my educational nonprofit, Pondr Tech
+🔭 I’m currently working on learning more about low-level programming and parallelized algorithms!
 
 🔥 My interests are computer networking, cybersecurity, algorithms, and desktop app development
 
