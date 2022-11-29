@@ -5,3 +5,5 @@
 🔥 My interests are computer networking (especially networking architecture), optimizing algorithmic efficiency, and desktop app development
 
 Former captain and veteran mentor of [@edgemontrobotics](https://github.com/edgemontrobotics), co-founder of [@Pondr-Tech](https://github.com/Pondr-Tech), founder and former educator at [@ehsprogramming](https://github.com/ehsprogramming)
+
+** Hickory dickory dock. The mouse ran up the clock. The clock struck six! The mouse ran down. Hickory dickory dock. You see, the mouse ran down. But the real question is, are you down? **
