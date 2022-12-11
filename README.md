@@ -1,6 +1,6 @@
 ### Hey! I'm Kenneth Ge 👋
 
-🔭 I’m currently working on learning more about network architecture design and parallelized algorithms!
+🔭 I’m currently working on learning more about systems programming, network architecture design, and parallelized algorithms!
 
 🔥 My interests are computer networking, algorithms, and desktop app development
 
