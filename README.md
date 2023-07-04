@@ -10,4 +10,4 @@ I pride myself on giving back to my communities, whether it's through offering m
 
 Former captain of FTC team 11205 [@edgemontrobotics](https://github.com/edgemontrobotics), formerly taught coding [@ehsprogramming ](https://github.com/kenneth-ge/Edgemont-Programming-Club-Projects). 
 
-P.S. fun fact: I once realized that math problem solving ended up being super formulaic in the way that it's taught in schools, so I created a project called [Substitution Algbera](https://github.com/kenneth-ge/Substitution-Algebra) to invent a new system of math that resembles algebra but with letters and words instead of numbers and variables, and allows you to explore problem-solving techniques from the ground up. 
+P.S. (aka fun fact 2): I once realized that math problem solving ended up being super formulaic in the way that it's taught in schools, so I created a project called [Substitution Algbera](https://github.com/kenneth-ge/Substitution-Algebra) to invent a new system of math that resembles algebra but with letters and words instead of numbers and variables, and allows you to explore problem-solving techniques from the ground up. 
