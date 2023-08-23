@@ -6,7 +6,7 @@
 
 Outside of CS, I compose music (on Spotify :D), and I also choreograph dance. Fun fact: at the end of high school, my friend Percy Baylis and I wrote a musical with an original plot and soundtrack!
 
-I pride myself on giving back to my communities, whether it's through offering mentorship, teaching coding, providing opportunities, or just plain being there to help out and listen in whatever way I can. Mostly recently, though, I've been super blessed to have a ton of loving and supportive people and communities to rely on. 
+I pride myself on giving back to my communities, whether it's through offering mentorship, teaching coding, providing opportunities, or just plain being there to help out and listen in whatever way I can. I've been super blessed to have a ton of loving and supportive people and communities to rely on. 
 
 Former captain of FTC team 11205 [@edgemontrobotics](https://github.com/edgemontrobotics), formerly taught coding [@ehsprogramming ](https://github.com/kenneth-ge/Edgemont-Programming-Club-Projects). 
 
