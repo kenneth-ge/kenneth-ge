@@ -2,8 +2,8 @@
 
 🎓 Junior at CMU SCS, studying CS, minoring in psychology. Graduating in 2026
 
-🔭 I love studying difficult problems, particularly in the intersection of computer science and psychology. I love thinking about how humans reason about problems, and how we express ourselves and relate to the world around us. I also enjoy hard optimization, and being able to design efficient and tight software in both an algorithmic and efficiency sense, as well as in a user-experience sense.  
+🧪 Hacker, HCI researcher, writer, aspiring psychologist, indie musician, rationalist, optimizer, ... I defy labels
 
-🧪 Currently conducting research in ML and computer accessibility/HCI
+🔥 My expertise is in HCI, AI, web, systems, and more. I'm confident I can solve any problem and learn any skill
 
-🔥 My technical experiences lies in algorithms, backend web dev, systems and drivers, accessible web design, AI/ML (not necessarily confined to DL), desktop app development, networking, game dev, algorithms, and more.
+Contact me via my LinkedIn!
