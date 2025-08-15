@@ -1,6 +1,6 @@
 ### Hey! I'm Kenny 👋
 
-🎓 Junior at CMU SCS, studying CS, minoring in psychology. Graduating in 2026
+🎓 Formerly CMU SCS + Psych Minor & Dartmouth College
 
 🧪 Hacker, HCI researcher, writer, aspiring psychologist, indie musician, rationalist, optimizer, ... I defy labels
 
