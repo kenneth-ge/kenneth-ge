@@ -1,6 +1,6 @@
 ### Hey! I'm Kenny 👋
 
-🎓 Formerly CMU SCS + Psych Minor & Dartmouth College
+🎓 CMU SCS & Dartmouth College
 
 🧪 Hacker, HCI researcher, writer, aspiring psychologist, indie musician, rationalist, optimizer, ... I defy labels
 
