@@ -2,7 +2,7 @@
 
 🎓 CMU SCS & Dartmouth College
 
-🧪 Hacker, HCI researcher, writer, aspiring psychologist, indie musician, rationalist, optimizer, ... I defy labels
+🧪 Hacker, HCI researcher, writer, aspiring psychologist, indie musician, optimizer, ... I defy labels
 
 🔥 My expertise is in HCI, AI, web, systems, and more. I'm confident I can solve any problem and learn any skill
 
