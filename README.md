@@ -6,4 +6,4 @@
 
 Here's my [Google Scholar](https://scholar.google.com/citations?user=YgwEm1wAAAAJ&hl=en&oi=ao)
 
-Contact me via my LinkedIn!
+Contact me via my [LinkedIn](https://www.linkedin.com/in/kenneth-ge/)!
