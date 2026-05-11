@@ -2,7 +2,7 @@
 
 🎓 CMU SCS & Dartmouth College
 
-🧪 Hacker, AI safety researcher, HCI researcher, writer, indie musician, optimizer, ...
+🧪 Hacker, AI researcher, HCI researcher, writer, indie musician, optimizer, ...
 
 Here's my [Google Scholar](https://scholar.google.com/citations?user=YgwEm1wAAAAJ&hl=en&oi=ao)-- I've published work ranging from AI to HCI and everything inbetween.
 
