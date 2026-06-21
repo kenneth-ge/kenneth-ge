@@ -6,4 +6,4 @@ Here's my [Google Scholar](https://scholar.google.com/citations?user=YgwEm1wAAAA
 
 I founded Pittsburgh Abundance-- check out [our substack here](https://abundancepgh.substack.com/). 
 
-Contact me via my [LinkedIn](https://www.linkedin.com/in/kenneth-ge/)!
+Contact me via Substack chat!
